@@ -1,0 +1,2 @@
+# basic_of_javascript
+As Javascript is the heart of web application, I've started to learn the basic syntaxes of javascript after finishing some projects through html5, css. as well as bootstrap. There are many  channels about learning javascript on youtube. But Anisul Islam is the youtube channel regarding coding from which i have tried to gather my basic concept. It is really outstanding for freshers to know what they need at the beginning time from this channel. 
